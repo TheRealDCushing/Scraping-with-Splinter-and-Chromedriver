@@ -18,5 +18,5 @@ Pandas makes it especially easy to scrape tables on websites we find interesting
 instead of beautifulsoup wherever possible. 
 
 A loop was utilized in conjunction with chromedriver to retrieve all of the images, in this case
-by cleverly referencing the <h3> tag, since that was used exclusively in conjunction with the categories
+by cleverly referencing the h3 tag, since that was used exclusively in conjunction with the categories
 of interest.
